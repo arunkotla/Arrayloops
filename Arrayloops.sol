@@ -3,7 +3,9 @@
 pragma solidity ^0.8.0;
 
 contract loops{
+
   uint[5] public arr;
+  
   function arrayloop (uint _x) public {
    
     uint i;
